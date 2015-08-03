@@ -1,4 +1,4 @@
-name := "sbt-docker-example"
+name := "dockerize-with-maven-example"
 
 organization := "apiumtech"
 
